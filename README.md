@@ -360,7 +360,7 @@
     const [first, second] = arr;
     ```
 
-  - [5.3](#5.3) <a name='5.3'></a> Dùng `destructuring` cho nhiều giá trị trả về, không dùng `destructuring` array.
+  - [5.3](#5.3) <a name='5.3'></a> Dùng `destructuring` object cho nhiều giá trị trả về, không dùng `destructuring` array.
 
   > Cách dùng này giúp chúng ta có thể thêm một thuộc tính mới hoặc sắp xếp thứ tự trả về mà không gây ảnh hưởng cho các hàm khác.
 
